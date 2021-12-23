@@ -1,0 +1,7 @@
+F:\Cognizant Learning\Cloud\handson_5\obj\Release\netcoreapp3.1\PubTmp\Out\handson_5.exe
+F:\Cognizant Learning\Cloud\handson_5\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+F:\Cognizant Learning\Cloud\handson_5\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+F:\Cognizant Learning\Cloud\handson_5\obj\Release\netcoreapp3.1\PubTmp\Out\handson_5.dll
+F:\Cognizant Learning\Cloud\handson_5\obj\Release\netcoreapp3.1\PubTmp\Out\handson_5.deps.json
+F:\Cognizant Learning\Cloud\handson_5\obj\Release\netcoreapp3.1\PubTmp\Out\handson_5.runtimeconfig.json
+F:\Cognizant Learning\Cloud\handson_5\obj\Release\netcoreapp3.1\PubTmp\Out\handson_5.pdb

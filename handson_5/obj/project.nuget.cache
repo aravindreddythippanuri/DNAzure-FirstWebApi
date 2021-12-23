@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kz4S1wzunFV5rFOcnouZvuwyJftrLJaNK6Ne+oDeWK8VGRoZtWkKAPcvjoMqBDGO6Qy1dOQ6hJPrc8jYZ9WBoA==",
+  "success": true,
+  "projectFilePath": "F:\\Cognizant Learning\\Cloud\\handson_5\\handson_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arpit\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
